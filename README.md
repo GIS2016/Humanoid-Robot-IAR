@@ -7,7 +7,7 @@ Humanoid Robot-Humanlike robot (has a torso, a head, two arms and/or two legs)
 -Emotional model: Understand human’s emotion and express its own emotional state
 (Reference: B. Adams, C. Breazeal, R.A. Brooks, B. Scassellati, Humanoid robots: a new kind of tool, IEEE Intelligent Systems 15 (4) (2000) 25–31.)
 
-Goal: Toconduct an industry analysis in the field of humanoid robot to analyse the growth rate of humanoid robot and assess its acceptability in the global marketplace.Summarise all the findings in the industry analysis report.
+Goal: To conduct an industry analysis in the field of humanoid robot to analyse the growth rate of humanoid robot and assess its acceptability in the global marketplace.Summarise all the findings in the industry analysis report.
 
 OUTLINE
 I. Contributors (Team members’ info)
