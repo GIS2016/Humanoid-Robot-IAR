@@ -10,8 +10,11 @@ Humanoid Robot-Humanlike robot (has a torso, a head, two arms and/or two legs)
 Goal: To conduct an industry analysis in the field of humanoid robot to analyse the growth rate of humanoid robot and assess its acceptability in the global marketplace.Summarise all the findings in the industry analysis report.
 
 OUTLINE
+
 I. Contributors (Team members’ info)
+
 II. Table of contents
+
 1.Introduction-Logic model
 -Metrics used to evaluate humanoid robot
 -Definition of humanoid robot
