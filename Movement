@@ -1,0 +1,21 @@
+Definition of Movement
+Robot Movement (or called locomotion) is the collective name for the various methods that robots use to transport themselves from place to place. Locomotion includes very different concepts of motion including rolling, walking, running, jumping, sliding (undulatory locomotion), crawling, climbing, swimming, and flying. Although walking, running, jumping, crawling and climbing seem to be very similar concepts at first sights, they are drastically different in terms of energy consumption, kinematics, stability, and capabilities required by the robot that implements them.
+Movement and humanoid robots
+Locomotion is a major technological obstacle for humanoid robots. Actuation, the focus of this part, is the ability of the robot to move and to manipulate the world. Specifically, we differentiate between locomotion as the ability of the robot to move and manipulation as the ability to move objects in the environment of the robot. Both activities are closely related: during locomotion the robot uses its motors to exert forces on its environment (ground, water or air) to move itself, during manipulation it uses – sometimes the same – motors to exert forces on objects to move them relative to the environment.
+Applications of Movement on humanoid robots
+Locomotion	Humanoid robots
+Walking	Honda’s ASIMO (2-legged) and Sony’s AIBO.
+Running	University of Michigan’s MABEL robot (2-legged) and Boston Dynamics’ Big Dog (4-legged)
+Jumping	EPFL’s Micro-gliders
+Sliding	EPFL’s Salamandra robot
+Crawling	Harvard’s  worm
+Climbing	Stanford’s StickyBot
+Swimming	FESTO’s , MIT’s AMOUR robot, and various robotic fish
+
+ 	 
+Honda’s ASIMO	University of Michigan’s MABEL robot
+ 	
+
+ 
+EPFL’s Micro-gliders	EPFL’s Salamandra robot
+
