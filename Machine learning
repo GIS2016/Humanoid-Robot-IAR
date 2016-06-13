@@ -1,0 +1,7 @@
+In Machine Learning, behavioural cloning has become popular for skill acquisition via human demonstration. 
+  
+It relies on bidirectional interaction. Humans offers tutoring to the learner (humanoid robot), and humanoid robot will show how well it has learnt not only through its performance at the task at hand, but also through other modalities, such as non-verbal and verbal expressions. 
+  
+Imitation learning must considered in the context of Robot Programming by Demonstration (PbD). The humanoid robot can learn by imitating the human and associating its own actions with its own perceptions.
+Growing Trend of Machine Learning 
+With more arising new computing technologies, machine learning today is not like machine learning of the past. While many machine learning algorithms have been around for a long time, the ability to automatically apply complex mathematical calculations to big data – over and over, faster and faster – is a recent development. 
