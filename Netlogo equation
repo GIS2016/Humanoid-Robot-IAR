@@ -1,0 +1,19 @@
+Performance = perf
+Growth = g(x)
+Rate of Change = r(x)
+Price = p
+Population = pop
+Market Value = v
+
+Equations: 
+1.	Robot performance = perf(initial) * g(perf) * r(perf)
+2.	Robot price = p(initial) * g(p) * r(p)
+3.	Performance-price ratio [P/P] = perf/p
+4.	Robot population = pop(initial) * g(P/P) * r(P/P)
+5.	Robot market value = v(initial) * g(v) * r(v) / stock price * number of stock 
+*5 switches = 5 variables
+
+        
+
+http://ccl.northwestern.edu/netlogo/models/HexCellAggregation
+
