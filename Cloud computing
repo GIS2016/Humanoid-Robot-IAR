@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+Cloud computing and humanoid robots 
+Imagine a humanoid robot that finds an object that it's never seen or used before—say, a plastic cup. The robot could simply send an image of the cup to the cloud and receive back the object’s name, a 3-D model, and instructions on how to use it, says James Kuffner, a professor at Carnegie Mellon currently working at Google. Using the cloud, a robot could improve capabilities such as speech recognition, language translation, path planning, and 3D mapping.
+
+Four potential advantages to using the Cloud: 
+1) Big Data: access to updated libraries of images, maps, and object/product data.
+2) Cloud Computing: access to parallel grid computing on demand for statistical analysis, learning, and motion planning. 
+3) Collective Learning: robots and systems sharing trajectories, control policies, and outcomes
+4) Human Computation: use of crowdsourcing to tap human skills for analysing images and video, classification, learning, and error recovery. The Cloud can also provide access to a) datasets, publications, models, benchmarks, and simulation tools, b) open competitions for designs and systems, and c) open-source software. It is important to recognize that Cloud Robotics and Automation raises critical new questions related to network latency, quality of service, privacy, and security.
+Application of Cloud computing on humanoid robots
+    
+Rather than viewing robots and automated machines as isolated systems with limited computation and memory, "Cloud Robotics and Automation" considers a new paradigm where robots and automation systems exchange data and perform computation via networks. Extending earlier work that links robots to the Internet, Cloud Robotics and Automation builds on emerging research in cloud computing, machine learning, big data, open-source software, and major industry initiatives in the "Internet of Things", "Smarter Planet", "Industrial Internet", and "Industry 4.0."
+Gostai, a French robotics firm, has built a cloud robotics infrastructure callled GostaiNet, which allows a robot to perform speech recognition, face detection, and other tasks remotely. The small humanoid Nao by Aldebaran Robotics will use GostaiNet to improve its interactions with children as part of research project at a hospital in Italy. And Gostai's Jazz telepresence robot uses the cloud for video recording and voice synthesis.
+At present the iCub humanoid project doesn't rely on "cloud robotics," but Giulio Sandini, a robotics professor at the Italian Institute of Technology and one of the project's leaders, says it's "a precursor of the idea." The iCub, an open child-sized humanoid platform, works as a "container of behaviors," Sandini says. "Today we share simple behaviors, but in the same way we could develop more complex ones like a pizza making behavior, and our French collaborators could develop a crepes making behavior." In principle, you'd just upload a "behavior app" to the robot and it would cook you pizzas or crepes.
