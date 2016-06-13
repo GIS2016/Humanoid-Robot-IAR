@@ -1,0 +1,35 @@
+Definition of Battery
+Battery is used to power electrical devices. Batteries come in many shapes and sizes, from miniature cells used to power hearing aids and wristwatches to battery banks the size of rooms that provide standby power for telephone exchanges and computer data centers. Batteries have much lower specific energy (energy per unit mass) than common fuels such as gasoline. This is somewhat offset by the higher efficiency of electric motors in producing mechanical work, compared to combustion engines.
+Battery and humanoid robots
+Battery is one of the basic parts of humanoid robots, which provide the power. Given the wide range of actuators and electronics which go into a robot, choosing the right battery is an important task.
+Applications of Battery on humanoid robots
+Lithium battery is the most common battery type used by humanoid robots. Here are a list of the battery of humanoid robots.
+Humanoid robots	Battery
+ASIMO 2000, 2001, 2002	Nickel metal hydride, 38.4 V, 10 Ah, 7.7 kg, 4 hours to fully charge
+ASIMO 2004,2005,2007,2011	Lithium ion, 51.8 V, 6 kg, 3 hours to fully charge
+
+GuRoo	Lithium Ion, 42V and 7.2V
+NAO	lithium battery providing 48.6 Wh
+PLEN	6V-950mA NiMH 
+Salvius	1.2hrs
+TOPIO1.0	Hydraulic
+TOPIO2.0	Li-Po battery, 48V 20AH
+TOPIO3.0	Li-Po battery, 48V 20AH
+Manav	Lithium polymer battery
+
+ASIMO, an acronym for Advanced Step in Innovative Mobility, is a humanoid robot designed and developed by Honda. With aspirations of helping those who lack full mobility, ASIMO is frequently used in demonstrations across the world to encourage the study of science and mathematics. There ara 7 models of ASIMO using two different batteries.
+GuRoo is a humanoid robot developed at the Mobile Robotics Laboratory in the School of Information Technology and Electrical Engineering at the University of Queensland. The design of the GuRoo is based on the human form and it is kept as anthropomorphic as possible.
+Nao is an autonomous, programmable humanoid robot developed by Aldebaran Robotics, a French robotics company headquartered in Paris. Nao robots have been used for research and education purposes in numerous academic institutions worldwide. As of 2015, over 5,000 Nao units are in use in more than 50 countries.
+
+
+
+PLEN is a small desktop toy humanoid robot that can replicate complex human movements. It is controlled remotely by use of a Bluetooth enabled phone.
+Salvius is the first open source humanoid robot to be built in the United States, constructed with an emphasis on using recycled components and materials to reduce the costs of designing and construction.
+TOPIO is a bipedal humanoid robot designed to play table tennis against a human being. It has been developed since 2005 by TOSY, a robotics firm in Vietnam. There remains 3 models with 3 different batteries.
+Manav is India's first 3D printed expandable platform humanoid robot which was developed in the laboratory of A-SET Training and Research Institutes by Diwakar Vaish in late December 2014.	
+
+Trends of Battery 
+
+ 
+Lithium battery is the most common battery type used by humanoid robots. There are numerous variations of Li-ion technology are available today in the market with different anode/cathode combinations. However, the concern of the safety of Li-ion cells are still the same or even higher now.  This is because the application keeps expanding with larger batteries every time.  The latest mega-size Li-ion battery is being developed for Grid Energy Storage applications.  Some experimental models can store electricity in the low MWh range.  These mega-scale energy storage (MES) products can be built in modular fashion which will enable to assemble a bank of such batteries in or near a power generation plant for the purpose storing a good portion of the energy that are produced in the non-peak time to be released in the peak duration.
+
